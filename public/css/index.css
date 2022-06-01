@@ -1,5 +1,14 @@
 :root {
-    --color-light: #f8f9fa;
+    --color-light: #721011;
+    ;
+    --color-white: #bcd430;
+    ;
+    --color-unaccent: #8d8686;
+    --spacing-small: 10px;
+    --spacing-medium: 15px;
+    --spacing-large: 30px;
+    --border-radius: 3px;
+    --box-shadow: 0 16px 24px 2px rgba(33, 37, 41, .02), 0 6px 30px 5px rgba(33, 37, 41, .04), 0 8px 10px -5px rgba(33, 37, 41, .1);
 }
 
 * {
